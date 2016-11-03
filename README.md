@@ -1,6 +1,6 @@
 # Mondrian
 Generate the De Stijl art patterns
-About Mondrian https://en.wikipedia.org/wiki/Piet_Mondrian
+About [wiki](https://en.wikipedia.org/wiki/Piet_Mondrian "Mondrian") 
 
 ## Composition A
 
