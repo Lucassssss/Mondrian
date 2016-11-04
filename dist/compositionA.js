@@ -10,7 +10,7 @@ function $(id) {
     return document.getElementById(id);
 }
 
-function pattern(el, color, width, height) {
+function pattern(el, width, height) {
     var canvas = el;
     canvas.width = width;
     canvas.height = height;
@@ -51,7 +51,7 @@ function pattern(el, color, width, height) {
     context.lineTo(randomX_0, randomX_0);
     context.closePath();
 
-    for (i = 0; i < 30; i++) {
+    for (i = 0; i < 60; i++) {
         const frandomX_0 = getRandomNum(width);
         const frandomY_0 = getRandomNum(height);
 
